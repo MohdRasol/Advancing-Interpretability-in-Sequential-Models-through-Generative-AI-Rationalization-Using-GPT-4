@@ -45,7 +45,7 @@ Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 # License
-Distributed under the MIT License. See LICENSE for more information.
+Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
 
 # Author
 Mohammed Rasol Saleem Al Saidat- email:mohammedrasol@gmail.com
