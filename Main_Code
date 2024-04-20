@@ -15,7 +15,7 @@ This step would typically be done outside of Python, in the shell or command lin
 
 ```bash
 # This is a bash command, not Python code. Run in your command line.
-git clone https://github.com/MohdRasol/advancing-interpretability-using-gpt4.git
+git clone https://github.com/MohdRasol/Advancing-Interpretability-in-Sequential-Models-through-Generative-AI-Rationalization-Using-GPT-4 .git
 cd advancing-interpretability-using-gpt4
 ```
 
