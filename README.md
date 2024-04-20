@@ -19,7 +19,7 @@ Clone the repository and install the required packages:
 
 #bash
 //Copy code
-#git clone https://github.com/MohdRasol/advancing-interpretability-using-gpt4.git
+#git clone [https://github.com/MohdRasol/advancing-interpretability-using-gpt4](https://github.com/MohdRasol/Advancing-Interpretability-in-Sequential-Models-through-Generative-AI-Rationalization-Using-GPT-4 .git).git
 #cd advancing-interpretability-using-gpt4
 #pip install -r requirements.txt
 //Running the Model
