@@ -29,14 +29,21 @@ Clone the repository and install the required packages:
 //To start training the model with default parameters:
 
 #bash
+
 //Copy code
+
 #python train_model.py
+
 //To generate rationales using a pre-trained model:
 
 #bash
+
 //Copy code
+
 #python generate_rationale.py
+
 //Usage
+
 //Detailed usage instructions and examples can be found in the docs folder. This includes scripts for preprocessing data, training the model, and generating rationales.
 
 # Contributing
