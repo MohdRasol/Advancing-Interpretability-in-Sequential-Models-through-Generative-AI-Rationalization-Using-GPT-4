@@ -1,0 +1,28 @@
+# Requirements.txt for Advancing Interpretability in Sequential Models using GPT-4
+
+# Extended Requirements.txt for Advancing Interpretability in Sequential Models using GPT-4
+
+torch==1.8.1
+transformers==4.5.0
+datasets==1.6.0
+numpy==1.20.2
+pandas==1.2.4
+matplotlib==3.4.1  # For plotting graphs
+scikit-learn==0.24.1  # For additional machine learning functionality, if necessary
+tqdm==4.59.0  # For progress bars in loops and data loading
+scipy==1.6.2  # For scientific computing and additional mathematical functions
+seaborn==0.11.1  # For enhanced data visualization based on matplotlib
+jupyter==1.0.0  # If using Jupyter notebooks for development and demonstration
+flake8==3.9.0  # For code linting to maintain quality
+pytest==6.2.3  # For running tests on your code
+
+//To install the dependencies from this file, users should navigate to the directory containing requirements.txt in their command line or terminal and run:
+
+#bash
+#pip install -r requirements.txt
+
+
+//Usage and Best Practices:
+// 1-Documentation: Ensure that each library usage is well documented in your project's README or documentation files to explain why it is needed and how it is used.
+// 2. Version Control: The versions specified should be tested to work well together. Keep them updated, but also ensure stability by not immediately shifting to new major versions as they release.
+// 3. Virtual Environments: Recommend the use of virtual environments (like venv or conda) to users to avoid conflicts with existing Python packages on their systems.
