@@ -23,6 +23,6 @@ pytest==6.2.3  # For running tests on your code
 
 
 //Usage and Best Practices:
-// 1-Documentation: Ensure that each library usage is well documented in your project's README or documentation files to explain why it is needed and how it is used.
+// 1. Documentation: Ensure that each library usage is well documented in your project's README or documentation files to explain why it is needed and how it is used.
 // 2. Version Control: The versions specified should be tested to work well together. Keep them updated, but also ensure stability by not immediately shifting to new major versions as they release.
 // 3. Virtual Environments: Recommend the use of virtual environments (like venv or conda) to users to avoid conflicts with existing Python packages on their systems.
